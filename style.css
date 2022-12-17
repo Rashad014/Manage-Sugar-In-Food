@@ -550,3 +550,29 @@ footer p a:hover{
         height: 750px;
     }
 }
+@media(max-width:480px){
+    .first{
+        height: 670px;
+    }
+    .second_1{
+        width: 80%;
+    }
+    .second_1_2{
+        width: 100%;
+    }
+    .sixth{
+        height: 1100px;
+    }
+    .sixth_1_2{
+        height: 250px;
+    }
+    .seventh{
+        height: 935px;
+    }
+    .seventh_1{
+        height: 350px;
+    }
+    .seventh_2{
+        height: 585px;
+    }
+}
